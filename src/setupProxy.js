@@ -11,7 +11,7 @@ module.exports = function (app) {
     createProxyMiddleware({
       // update the flask Google Cloud url
 
-      target: "http://localhost:5000/",
+      target: "https://lstmflask01-qsybnlmiuq-uc.a.run.app",
       changeOrigin: true,
     })
   );
