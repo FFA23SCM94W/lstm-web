@@ -41,8 +41,52 @@ const repositories = [
     value: "Angular Material",
   },
   {
+    key: "milvus-io/pymilvus",
+    value: "pymilvus",
+  },
+  {
+    key: "SeleniumHQ/selenium",
+    value: "selenium",
+  },
+  {
+    key: "golang/go",
+    value: "go",
+  },
+  {
+    key: "google/go-github",
+    value: "go-github",
+  },
+  {
+    key: "angular/material",
+    value: "angular-material",
+  },
+  {
+    key: "angular/angular-cli",
+    value: "angular-cli",
+  },
+  {
+    key: "SebastianM/angular-google-maps",
+    value: "angular-google-maps",
+  },
+  {
     key: "d3/d3",
-    value: "D3",
+    value: "d3",
+  },
+  {
+    key: "facebook/react",
+    value: "react",
+  },
+  {
+    key: "tensorflow/tensorflow",
+    value: "tensorflow",
+  },
+  {
+    key: "keras-team/keras",
+    value: "keras",
+  },
+  {
+    key: "pallets/flask",
+    value: "flask",
   },
 ];
 
